@@ -13,7 +13,7 @@
 
 cask "reolens" do
   version "0.1.0"
-  sha256 "94e4d649d4904dc842a66198db79b36e5f6c1ed132f950c5ff071c5040863427"
+  sha256 "4464b279967a3f8493df31194ed6a07de10e3ac32c7b973e697cf02aee210d08"
 
   url "https://github.com/jestatsio/reolens/releases/download/v#{version}/Reolens-#{version}.dmg",
       verified: "github.com/jestatsio/reolens/"
