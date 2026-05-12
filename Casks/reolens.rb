@@ -12,8 +12,8 @@
 # overwrite a Sparkle-installed newer version.
 
 cask "reolens" do
-  version "0.2.2"
-  sha256 "695dac1f3823bbbdcfc9c8ea590c8d66dd017fc709d8dce8c2f4e25c43276747"
+  version "0.2.3"
+  sha256 "a14881c42d5ff67e3d3c10a1132de15361d317f7b93bf0713f1df8499261c1e8"
 
   url "https://github.com/jestatsio/reolens/releases/download/v#{version}/Reolens-#{version}.dmg",
       verified: "github.com/jestatsio/reolens/"
